@@ -1,0 +1,32 @@
+#camera , #captured_image{
+    border: 3px solid white;
+    width: 300px;
+    height: 300px;
+    box-shadow: 8px 8px 10px white;
+
+}
+.camera_div{
+    border: 3px solid white;
+    box-shadow: 8px 8px 10px white;
+    background-color: cadetblue;
+    padding: 10px;
+}
+.camera_div label{
+    background-color: white;
+    width: 300px;
+    margin-bottom: 0px;
+    padding: 10px;
+    box-shadow: 8px 8px 10px white;
+
+}
+.camera_div button{
+    width: 300px;
+    box-shadow: 8px 8px 10px white;
+    margin-top: 0px;
+}
+.result_div{
+    margin-top: 30px;
+    background-color: white;
+    box-shadow: 6px 6px 13px white;
+    border-radius: 20px;
+}
